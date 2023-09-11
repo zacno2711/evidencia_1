@@ -1,32 +1,63 @@
 # PRIMER MOMENTO - EVIDENCIA DE PRODUCTO
 
-**SE DA INICIO AL PROGRAMA DESDE EL MODULO "main.py"**
+**SE INICIA EL PROGRAMA DESDE EL MÓDULO "main.py"**
 
+En este proyecto se crean varios módulos utilizando Python, tales como:
 
-En este proyecto se crean varios modulos utilizando python, tales como: 
+## - colors.py
 
-## - colors.py 
-En este modulo se crea una funcion la cual facilita ponerle color a los textos que se mostraran en consola
+En este módulo, se crea una función que facilita dar color a los textos que se mostrarán en la consola.
+
 ## - finanzas.py
-Modulo el cual tiene un script que simula agregar ingresos y egresos, tambien permite sacar un historial de cada uno y uno completo.
-## - login.py
-Script que permite ingresar al perfil de cada usuario, ya sea por medio de un email registrado o un telefono
 
-Puedes crear un usuario nuevo desde registro o utilizar uno predeterminado.
-### Usuarios predeterminados 
-{"email":"juan@gmail.com","name":"pablo","phone":"1234536456","psw":"Juan123"},
-         {"email":"kelly@gmail.com","name":"kelly","phone":"3023456655","psw":"KellY123"},
-         {"email":"lucas@hotmail.com","name":"lucas","phone":"23433332233","psw":"lUcAs123"}
+Módulo que contiene un script que simula agregar ingresos y egresos. También permite obtener un historial de cada uno y uno completo.
+
+## - login.py
+
+Script que permite acceder al perfil de cada usuario, ya sea a través de un correo electrónico registrado o un número de teléfono. Puedes crear un nuevo usuario desde el registro o utilizar uno predeterminado.
+
+### Usuarios Predeterminados
+
+- **Usuario 1:**
+  - **Email:** juan@gmail.com
+  - **Nombre:** Pablo
+  - **Teléfono:** 1234536456
+  - **Contraseña:** Juan123
+
+- **Usuario 2:**
+  - **Email:** kelly@gmail.com
+  - **Nombre:** Kelly
+  - **Teléfono:** 3023456655
+  - **Contraseña:** KellY123
+
+- **Usuario 3:**
+  - **Email:** lucas@hotmail.com
+  - **Nombre:** Lucas
+  - **Teléfono:** 23433332233
+  - **Contraseña:** lUcAs123
 
 ## - main.py
-Modulo que da inicio al programa.
+
+Módulo que inicia el programa.
+
 ## - menus.py
-Modulo que almacena el codigo de los dos diferentes menus que tiene el programa.
-## - registro.
+
+Módulo que almacena el código de los dos diferentes menús que tiene el programa.
+
+## - registro.py
+
 Script que permite el registro de un nuevo usuario.
+
 ## - simulador_creditos.py
-Modulo que simula el credito de una persona con el valor del prestamo y en la cantidad de cuotas que este lo pagara.
-## - validaciones.py 
-En este Modulo se almacenan funciones las cuales permiten hacer validaciones en diferentes situaciones de los demas modulos
+
+Módulo que simula el crédito de una persona con el valor del préstamo y la cantidad de cuotas que pagará.
+
+## - validaciones.py
+
+En este módulo se almacenan funciones que permiten realizar validaciones en diferentes situaciones de los demás módulos.
+
+## Authors
+
+- [@zacno2711](https://github.com/zacno2711)
 
 
