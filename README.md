@@ -1,6 +1,6 @@
 # PRIMER MOMENTO - EVIDENCIA DE PRODUCTO
 
-<span style="color: blue">**SE DA INICIO AL PROGRAMA DESDE EL MODULO "main.py"**</span>
+**SE DA INICIO AL PROGRAMA DESDE EL MODULO "main.py"**
 
 
 En este proyecto se crean varios modulos utilizando python, tales como: 
